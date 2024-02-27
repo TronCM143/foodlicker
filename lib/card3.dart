@@ -86,6 +86,31 @@ class Card3 extends StatelessWidget {
                     style: FooderlichTheme.darkTextTheme.bodyText1),
                     backgroundColor: Colors.black.withOpacity(0.7),
                 ),
+                Chip(
+                    label: Text('Oyster',
+                    style: FooderlichTheme.darkTextTheme.bodyText1),
+                    backgroundColor: Colors.black.withOpacity(0.7),
+                ),
+                Chip(
+                    label: Text('Bacon',
+                    style: FooderlichTheme.darkTextTheme.bodyText1),
+                    backgroundColor: Colors.black.withOpacity(0.7),
+                ),
+                Chip(
+                    label: Text('Sesame',
+                    style: FooderlichTheme.darkTextTheme.bodyText1),
+                    backgroundColor: Colors.black.withOpacity(0.7),
+                ),
+                Chip(
+                    label: Text('Cedric',
+                    style: FooderlichTheme.darkTextTheme.bodyText1),
+                    backgroundColor: Colors.black.withOpacity(0.7),
+                ),
+                Chip(
+                    label: Text('Dryxe',
+                    style: FooderlichTheme.darkTextTheme.bodyText1),
+                    backgroundColor: Colors.black.withOpacity(0.7),
+                ),
                 ],
               ),
             ),
